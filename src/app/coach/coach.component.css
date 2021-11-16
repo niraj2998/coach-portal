@@ -18,3 +18,19 @@
     left: 95px;
   }
   
+
+  .ratings i 
+  {
+      color: green
+  }
+  
+  .install span 
+  {
+      font-size: 12px
+  }
+  
+  .col-md-12
+  {
+      margin-top: 20px
+  }
+  

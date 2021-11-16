@@ -1,5 +1,4 @@
 .main {
-  height: 93vh;
   background-color: rgba(255, 182, 47, 0.945);
 }
 
@@ -7,13 +6,16 @@
 {
   padding: 0;
   margin: 0;
-  border-left: 2px solid black;
-  position: relative;
-  top: 20px;
-  left: 50px;
+  width: 100%;
+  border-bottom: 2px dotted black;
+  margin-top: 20px;
 }
 
 .coachee-section {
   display: flex;
   justify-content: space-evenly;
 }
+
+
+
+
