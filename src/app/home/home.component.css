@@ -1,0 +1,19 @@
+.main {
+  height: 93vh;
+  background-color: rgba(255, 182, 47, 0.945);
+}
+
+.line
+{
+  padding: 0;
+  margin: 0;
+  border-left: 2px solid black;
+  position: relative;
+  top: 20px;
+  left: 50px;
+}
+
+.coachee-section {
+  display: flex;
+  justify-content: space-evenly;
+}

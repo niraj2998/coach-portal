@@ -1,0 +1,19 @@
+.profile{
+    display: flex;
+    position: relative;
+    top: 60px;
+    left: 60px;
+    justify-content: space-between;
+    width: 1200px;
+    
+}
+
+.profile-image{
+    height: 120px;
+    width: 200px;
+    background-color: grey;
+}
+
+.coachee-details{
+    margin-left: 40px;
+}

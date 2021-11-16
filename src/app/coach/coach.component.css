@@ -1,0 +1,20 @@
+.coach-img {
+    background-color: grey;
+    height: 150px;
+    width: 150px;
+    position: relative;
+    top: 50px;
+    left: 50px;
+    text-align: center;
+  }
+  
+  .coach-section {
+    display: flex;
+  }
+  
+  .coach-details {
+    position: relative;
+    top: 50px;
+    left: 95px;
+  }
+  
