@@ -169,11 +169,11 @@
     background: -webkit-linear-gradient(-135deg, #c850c0, #4158d0);
     background: -o-linear-gradient(-135deg, #c850c0, #4158d0);
     background: -moz-linear-gradient(-135deg, #c850c0, #4158d0);
-    background: linear-gradient(-135deg, #f79e29, #d1b790);
+    background: linear-gradient(-135deg, #fc5812d8, #fc5812d8);
   }
   
   .wrap-login100 {
-    width: 960px;
+    width: 1000px;
     height: 94vh;
     background: #fff;
     border-radius: 10px;
@@ -330,7 +330,7 @@
     width: 100%;
     height: 50px;
     border-radius: 25px;
-    background: #f79e29;
+    background: #fc5912;
     display: -webkit-box;
     display: -webkit-flex;
     display: -moz-box;
@@ -347,7 +347,7 @@
   }
   
   .login100-form-btn:hover {
-    background: #faa638c2;
+    background: #fc5812c5;
     color: rgb(0, 0, 0);
   }
   
